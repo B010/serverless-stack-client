@@ -1,4 +1,6 @@
 export default {
+  STRIPE_KEY: "pk_test_MUWemqxb5p16MJQFConQ1IiT004XdKVFly",
+  MAX_ATTACHMENT_SIZE: 5000000,
   s3: {
     REGION: "us-east-1",
     BUCKET: "bucket-up-app"
